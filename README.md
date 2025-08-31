@@ -23,5 +23,5 @@ GEMINI_API_KEY=gemini の API キー
 実行
 
 ```
-python3 mcp-discord-bot/bot.py
+python3 bot.py
 ```
